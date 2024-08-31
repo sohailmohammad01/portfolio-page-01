@@ -63,7 +63,7 @@ const services: TService[] = [
     icon: backend,
   },
   {
-    title: "Brand Building",
+    title: "Brand Building/<br>SEO",
     icon: creator,
   },
 ];
@@ -140,7 +140,7 @@ const experiences: TExperience[] = [
   {
     title: "React Native Developer",
     companyName: "Freelancer",
-    icon: tesla,
+    icon: starbucks,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
