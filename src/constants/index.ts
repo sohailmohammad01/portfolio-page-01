@@ -126,7 +126,7 @@ const technologies: TTechnology[] = [
 const experiences: TExperience[] = [
   {
     title: "React.js Developer",
-    companyName: "Starbucks",
+    companyName: "Freelancer",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
@@ -139,7 +139,7 @@ const experiences: TExperience[] = [
   },
   {
     title: "React Native Developer",
-    companyName: "Tesla",
+    companyName: "Freelancer",
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
@@ -152,7 +152,7 @@ const experiences: TExperience[] = [
   },
   {
     title: "Web Developer",
-    companyName: "Shopify",
+    companyName: "Upwork",
     icon: shopify,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
@@ -165,8 +165,8 @@ const experiences: TExperience[] = [
   },
   {
     title: "Full stack Developer",
-    companyName: "Meta",
-    icon: meta,
+    companyName: "Upwork",
+    icon: shopify,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
