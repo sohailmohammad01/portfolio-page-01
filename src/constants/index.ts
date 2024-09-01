@@ -63,7 +63,7 @@ const services: TService[] = [
     icon: backend,
   },
   {
-    title: "Brand Building/<br>SEO",
+    title: "Brand Building/ SEO",
     icon: creator,
   },
 ];
